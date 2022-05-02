@@ -1,5 +1,7 @@
 # Technical Test - Two Sum
 
+- Can you send me an e-mail to nicolas@weward.fr to tell me who you are ? Thanks !
+
 ### Problem
 
 You have an array A[] of n numbers and a number x. 
